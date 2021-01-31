@@ -11,12 +11,12 @@ class Solution:
         """
         left = 1
         right = n
-        
+​
         while left < right:
             middle = (left + right) // 2
-            if isBadVersion(middle) == True:
-                right = middle
-            else:
+            if isBadVersion(middle) == False:
                 left = middle + 1
+            else:
+                right = middle
         
-        return left
+        return (left)
