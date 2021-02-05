@@ -3,7 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python3](./solutions/49.%20Group%20Anagrams.py)|96 ms|
-|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|32 ms|
+|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|40 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python3](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|52 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|8 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|36 ms|
