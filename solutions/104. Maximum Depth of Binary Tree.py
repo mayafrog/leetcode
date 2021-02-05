@@ -6,14 +6,20 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: TreeNode) -> int:
-        if root is None:
+        if not root:
             return 0
+        
+        queue = [root]
+        height = 0
 ​
-        Lcounter = self.maxDepth(root.left)
-        Rcounter = self.maxDepth(root.right)
+        while queue:
+            temp = []
+            height += 1
+            for node in queue:
+                if node.left:
+                    temp.append(node.left)
+                if node.right:
+                    temp.append(node.right)
+            queue = temp
 ​
-        if (Lcounter > Rcounter):
-            return Lcounter + 1
-        else:
-            return Rcounter + 1
-​
+        return height
