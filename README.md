@@ -13,6 +13,7 @@
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python3](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.py)|60 ms|
 |409|[ Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python3](./solutions/409.%20Longest%20Palindrome.py)|40 ms|
 |412|[ Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python3](./solutions/412.%20Fizz%20Buzz.py)|40 ms|
+|429|[ N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python3](./solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal.py)|48 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Python3](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)|344 ms|
 |451|[ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python3](./solutions/451.%20Sort%20Characters%20By%20Frequency.py)|40 ms|
 |628|[ Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python3](./solutions/628.%20Maximum%20Product%20of%20Three%20Numbers.py)|260 ms|
