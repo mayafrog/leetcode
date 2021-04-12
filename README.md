@@ -4,7 +4,7 @@
 |---| ----- | -------- | ------- |
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python3](./solutions/2.%20Add%20Two%20Numbers.py)|68 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python3](./solutions/49.%20Group%20Anagrams.py)|96 ms|
-|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|40 ms|
+|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|28 ms|
 |111|[ Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python3](./solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree.py)|536 ms|
 |113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Python3](./solutions/113.%20Path%20Sum%20II.py)|40 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python3](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|52 ms|
