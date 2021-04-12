@@ -10,16 +10,16 @@ class Solution:
             return 0
         
         queue = [root]
-        height = 0
+        level = 0
 ​
         while queue:
             temp = []
-            height += 1
+            level += 1
             for node in queue:
                 if node.left:
                     temp.append(node.left)
                 if node.right:
                     temp.append(node.right)
             queue = temp
-​
-        return height
+        
+        return level
